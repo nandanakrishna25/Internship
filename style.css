@@ -6,8 +6,9 @@ h1
 
 pre 
 {color: rgb(17, 10, 2);
- background-color: rgb(245, 201, 201);}
-
+ background-color: rgb(245, 201, 201);
+width:fit-content;
+border:2px solid brown}
  a
  {
  color: rgb(200, 178, 220);
