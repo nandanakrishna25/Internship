@@ -9,3 +9,7 @@ pre
  background-color: rgb(245, 201, 201);
 width:fit-content;
 border:2px solid brown}
+ a
+ {
+ color: rgb(200, 178, 220);
+ }
